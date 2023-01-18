@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\bin\Debug\net7.0\Для Visual studias.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\bin\Debug\net7.0\Для Visual studias.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\bin\Debug\net7.0\Для Visual studias.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\bin\Debug\net7.0\Для Visual studias.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\bin\Debug\net7.0\Для Visual studias.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\refint\Для Visual studias.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\Для Visual studias.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Для Visual studias\obj\Debug\net7.0\ref\Для Visual studias.dll
